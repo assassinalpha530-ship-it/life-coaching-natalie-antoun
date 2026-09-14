@@ -1,0 +1,20 @@
+BLOOM — QUICK START
+
+IMPORTANT:
+Do not double-click index.html if your browser blocks local JavaScript/modules or Supabase behavior.
+For the easiest test on a computer:
+
+1. Put this folder somewhere on your computer.
+2. Open a terminal in this folder.
+3. Run:
+   python -m http.server 8080
+4. Open:
+   http://localhost:8080
+
+For the real website, upload the folder to Cloudflare Pages.
+Cloudflare will serve index.html correctly over HTTPS.
+
+Life Coach:
+Natalie Antoun
+
+The app is intentionally plain HTML/CSS/JS so it stays lightweight.
